@@ -9,7 +9,7 @@ By running this software you agree that Cryptizism or any other distributors are
 - A Minecraft account
   - Must be able to join Hypixel
 - Forge installed
-  - Chattriggers plugin installed
+  - Chattriggers mod installed
 - Discord server
   - Must have Manage Server role
 - A bot that you own [(Click here to create)](https://discord.com/developers/applications/)
