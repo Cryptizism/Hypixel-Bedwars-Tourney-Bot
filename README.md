@@ -2,7 +2,7 @@
 ## Liability
 By running this software you agree that Cryptizism or any other distributors are not held liable if you are banned on the Hypixel network for using this.
 ## Badges
-![Twitch Status](https://img.shields.io/twitch/status/Cryptizism?color=%239146FF&label=Twitch&logo=Twitch) ![GitHub all releases](https://img.shields.io/github/downloads/Cryptizism/Hypixel-Bedwars-Tourney-Bot/total) ![GitHub](https://img.shields.io/github/license/Cryptizism/Hypixel-Bedwars-Tourney-Bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Cryptizism/Hypixel-Bedwars-Tourney-Bot) ![GitHub top language](https://img.shields.io/github/languages/top/Cryptizism/Hypixel-Bedwars-Tourney-Bot) ![Discord](https://img.shields.io/badge/Discord-Cryptizism%232999-%237289DA?logo=Discord)
+![Twitch Status](https://img.shields.io/twitch/status/Cryptizism?color=%239146FF&label=Twitch&logo=Twitch) ![GitHub all releases](https://img.shields.io/github/downloads/Cryptizism/Hypixel-Bedwars-Tourney-Bot/total) ![GitHub](https://img.shields.io/github/license/Cryptizism/Hypixel-Bedwars-Tourney-Bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Cryptizism/Hypixel-Bedwars-Tourney-Bot) ![GitHub top language](https://img.shields.io/github/languages/top/Cryptizism/Hypixel-Bedwars-Tourney-Bot) ![Discord](https://img.shields.io/badge/Discord-Cryptizism%232999-%237289DA?logo=Discord) ![Build Status](https://img.shields.io/badge/Build-W.I.P-red)
 ## Requirements
 - Java (You will already have this if you can run Minecraft)
 - Node.js Version 12 or over
@@ -26,3 +26,24 @@ By running this software you agree that Cryptizism or any other distributors are
 - [ ] Party all particpants 
 - [ ] Let the particpants request an invite if: they were not ready, didn't get an invite or any other reason
 - [ ] (Optional) Output stats of all players after game and post them in the discord
+## Usage
+#### Commands starting with "/" use the "slash command" feature. Example: [1](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ), [2](https://i.imgur.com/nU1htR2.png)
+Comamnd : Description
+
+#### Participants
+
+/verify : Links your Discord and Minecraft account
+
+/help : Shows all commands
+
+/creator : Sends my Discord (Cryptizism#2999)
+
+/current : Sends how long till a game starts or if there is a game going on
+
+#### Moderators
+
+tb!around [Team Name] : Assigns people who are in a team a round role
+
+tb!notify [time] [round] : Notifs people with a round role that they are going up in `x` amount of time
+
+tb!stats [Y/N] : Toggles stats output after game (For this all players must turn kill message to default)
