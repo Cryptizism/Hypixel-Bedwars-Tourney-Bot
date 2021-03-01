@@ -47,3 +47,12 @@ tb!around [Team Name] : Assigns people who are in a team a round role
 tb!notify [time] [round] : Notifs people with a round role that they are going up in `x` amount of time
 
 tb!stats [Y/N] : Toggles stats output after game (For this all players must turn kill message to default)
+
+## Method
+1. Install everything in requirements
+2. Unzip the folder into C:\Users\[UR USER HERE]\AppData\Roaming\.minecraft\config\ChatTriggers\modules
+3. Go into the .env file and replace `CLIENT_ID_HERE` with your Client ID and `Server_ID` with the Server ID
+4. Open the start.bat file
+5. Click on the link that has been outputed to your console
+6. Open up Minecraft and go onto Hypixel
+7. Use the bot and it should work!
