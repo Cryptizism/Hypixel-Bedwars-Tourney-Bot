@@ -1,6 +1,5 @@
 # Automated Hypixel Tourney Bot
-## Badges
-![Twitch Status](https://img.shields.io/twitch/status/Cryptizism?color=%239146FF&label=Twitch&logo=Twitch) ![GitHub all releases](https://img.shields.io/github/downloads/Cryptizism/Hypixel-Bedwars-Tourney-Bot/total) ![GitHub](https://img.shields.io/github/license/Cryptizism/Hypixel-Bedwars-Tourney-Bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Cryptizism/Hypixel-Bedwars-Tourney-Bot) ![GitHub top language](https://img.shields.io/github/languages/top/Cryptizism/Hypixel-Bedwars-Tourney-Bot) ![Discord](https://img.shields.io/badge/Discord-Cryptizism%232999-%237289DA?logo=Discord) ![Build Status](https://img.shields.io/badge/Build-W.I.P-red)
+![GitHub all releases](https://img.shields.io/github/downloads/Cryptizism/Hypixel-Bedwars-Tourney-Bot/total) ![GitHub](https://img.shields.io/github/license/Cryptizism/Hypixel-Bedwars-Tourney-Bot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Cryptizism/Hypixel-Bedwars-Tourney-Bot) ![GitHub top language](https://img.shields.io/github/languages/top/Cryptizism/Hypixel-Bedwars-Tourney-Bot)
 ## Liability
 By running this software you agree that Cryptizism or any other distributors are not held liable including but not limited to: punishment of any sort on the Hypixel Network or any other servers, failure to work, and more.
 ## Requirements
