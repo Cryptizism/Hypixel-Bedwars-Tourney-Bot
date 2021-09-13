@@ -70,7 +70,7 @@ tb!players [@role] : Sets player role for pings
 ## Installation
 1. Install everything in [prequisites](https://github.com/Cryptizism/Hypixel-Bedwars-Tourney-Bot#requirements)
 2. Go into the .env file and replace `CLIENT_ID_HERE` with your Client ID, `SERVER_ID_HERE` with the Server ID, `API_KEY_HERE` with your hypixel api key
-3. Open the start.bat file (This will npm install ect.)
+3. Open the start.bat file [(This will npm install ect.)](https://github.com/Cryptizism/Hypixel-Bedwars-Tourney-Bot/blob/main/README.md#what-does-the-bat-do-)
 4. Open up Minecraft and go onto Hypixel
 5. Use the bot and it should work!
 6. Try not to touch anything as it may disturb the process
